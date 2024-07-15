@@ -1,0 +1,9 @@
+pandas
+numpy
+scikit-learn
+faker
+matplotlib
+seaborn
+wordcloud
+nltk
+google-cloud-bigquery
